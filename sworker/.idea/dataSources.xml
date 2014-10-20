@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3679193965">
+    <data-source source="LOCAL" name="MySQL - sens-test@172.16.51.184" uuid="7a302f2b-296e-486b-be88-d17e7a081df8">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.51.184:3306/sens-test</jdbc-url>
+      <user-name>train</user-name>
+      <user-password>dfdedfd8dfcbdfc3dfc4</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
