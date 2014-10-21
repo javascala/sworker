@@ -1,0 +1,15 @@
+<div id="list">
+
+    <h2>List activity</h2>
+    <ul>
+        <li ng-repeat="entity in lists">
+            <span class="todoTitle">{{entity.type}}</span>
+            <span class="todoTitle">{{entity.owner}}</span> &nbsp;
+            <span class="todoDescription">{{entity.content}}</span> &nbsp;
+            <span class="todoTitle">{{entity.blogAttr}}</span> &nbsp;
+        </li>
+
+    </ul>
+    <button ng-click="gotoNewPage()" class="button" value="save">save</button>
+    <hr/>
+</div>
